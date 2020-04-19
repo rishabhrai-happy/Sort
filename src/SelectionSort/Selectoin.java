@@ -1,7 +1,7 @@
 package SelectionSort;
 
 public class Selectoin {
-    public void ssort(int[] arr) {
+    public void ssorting(int[] arr) {
         int min;
         int temp = 0;
         for (int i = 0; i < arr.length; i++) {
